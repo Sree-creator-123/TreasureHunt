@@ -18,7 +18,7 @@ function clues() {
     
     fill("white")
     textSize(15)
-    text("A T A D A S B A", 100, 300)
+    text("A T A D E S B A", 100, 300)
     fill("lightblue")
     text("Hint: Stores all information", 100, 320)
 
